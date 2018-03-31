@@ -1,12 +1,44 @@
-## There will be some info about me
+## Maslovich Nikolay Romanovich
 
-You can use the [editor on GitHub](https://github.com/lebionick/lebionick.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://sun9-7.userapi.com/c831309/v831309035/60348/f_yWNVG_1FE.jpg)
+
+### Bio
+Student, 4th year @ NUST MISiS, Moscow
+Applied Math
+
+Have ended phys-math faculty Lyceum #1525 Vorobievy Gory, 2014
+
+### Activity
+Non-working, looking for vacancies in the sphere of Deep/Machine Learning
+At free time doing little projects, see my repo
+
+### ML achievements
+- Have passed Andrew NG's Coursera course [Certificate](www.coursera.com)
+- Have passed Victor Kantor's [Data Mining in Action course](vk.com/dmia) @ RUDN university, Moscow
+- Have [publication](http://2018.icsa-conf.ru/) @ [ICSA conference](http://2018.icsa-conf.ru/)
+
+### Special Skills
+- IELTS band 7.0 [Certificate](www.ielts.com)
+- Have passed Samsung Internship [Certificate](www.vk.com)
+
+### Programming languages
+- Python
+- JavaScript
+- C#
+- R
+
+### DL/ML Frameworks
+- Keras & Tensorflow
+- MxNet
+- PyTorch
+- sklearn & pandas & scipy & numpy
+
+### Contact me
+- [Telegram](@maslovich)
+- [vk](www.vk.com)
+- [email](m141836@edu.misis.ru)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Nikolay Maslovich
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
