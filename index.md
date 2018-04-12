@@ -13,7 +13,7 @@ Non-working, looking for vacancies in the sphere of Deep/Machine Learning
 At free time doing little projects, see my repo
 
 ### ML achievements
-- Have passed Andrew NG's Coursera course [Certificate](www.coursera.com)
+- Have passed Andrew NG's Coursera course [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
 - Have passed Victor Kantor's [Data Mining in Action course](vk.com/dmia) @ RUDN university, Moscow
 - Have [publication](http://2018.icsa-conf.ru/) @ [ICSA conference](http://2018.icsa-conf.ru/)
 
@@ -34,9 +34,9 @@ At free time doing little projects, see my repo
 - sklearn & pandas & scipy & numpy
 
 ### Contact me
-- [Telegram](@maslovich)
-- [vk](www.vk.com)
-- [email](m141836@edu.misis.ru)
+- Telegram: **@maslovich**
+- [vk](www.vk.com/realign)
+- [email](mailto:m141836@edu.misis.ru)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
