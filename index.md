@@ -10,11 +10,11 @@ Have ended phys-math faculty Lyceum #1525 Vorobievy Gory, 2014
 
 ### Activity
 Non-working, looking for vacancies in the sphere of Deep/Machine Learning
-At free time doing little projects, see my repo
+At free time doing pet projects, see my repo
 
 ### ML achievements
-- Have passed Andrew NG's Coursera course [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
-- Have passed Victor Kantor's [Data Mining in Action course](vk.com/dmia) @ RUDN university, Moscow
+- Have passed Andrew NG's Deep Learning Coursera Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
+- Have passed Victor Kantor's [Data Mining in Action course](https://vk.com/data_mining_in_action) fall'17 @ RUDN university, Moscow
 - Have [publication](http://2018.icsa-conf.ru/) @ [ICSA conference](http://2018.icsa-conf.ru/)
 
 ### Special Skills
@@ -34,7 +34,7 @@ At free time doing little projects, see my repo
 - sklearn & pandas & scipy & numpy
 
 ### Contact me
-- Telegram: **@maslovich**
+- [Telegram](https://t.me/maslovich)
 - [vk](www.vk.com/realign)
 - [email](mailto:m141836@edu.misis.ru)
 
