@@ -16,10 +16,12 @@ At free time doing pet projects, see my repo
 - Have passed Andrew NG's Deep Learning Coursera Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
 - Have passed Victor Kantor's [Data Mining in Action course](https://vk.com/data_mining_in_action) fall'17 @ RUDN university, Moscow
 - Have approved publication @ [ICSA conference](http://2018.icsa-conf.ru/)
+- Have [participated](https://yadi.sk/i/CRqTjhNs3URAdq) in [ISYT](http://isyt2017.spiiras.nw.ru/) IV-th International Summer School-Seminar on Artificial Intelligence '17
 
 ### Special Skills
-- IELTS band 7.0 Certificate
-- Have passed Samsung Practice Certificate
+- IELTS band 7.0 [Certificate](https://yadi.sk/i/qfsGN3GR3URAdd)
+- Have passed Samsung Practice (Tizen, Web) [Certificate](https://yadi.sk/i/9C2lsIiv3URAdf)
+- Have [participated](https://yadi.sk/i/FdyetOGP3URAdm) in Visionhack hackathon
 
 ### Programming languages
 - Python
@@ -35,5 +37,5 @@ At free time doing pet projects, see my repo
 
 ### Contact me
 - [Telegram](https://t.me/maslovich)
-- [vk](www.vk.com/realign)
-- [email](mailto:m141836@edu.misis.ru)
+- [VK](www.vk.com/realign)
+- [Email](mailto:m141836@edu.misis.ru)
