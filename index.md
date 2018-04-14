@@ -9,7 +9,7 @@ Applied Math
 Have ended phys-math faculty Lyceum #1525 Vorobievy Gory, 2014
 
 ### Activity
-Non-working, looking for vacancies in the sphere of Deep/Machine Learning
+Non-working, looking for vacancies in the sphere of Deep/Machine Learning  
 At free time doing pet projects, see my repo
 
 ### ML achievements
