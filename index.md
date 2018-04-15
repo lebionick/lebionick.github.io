@@ -16,7 +16,8 @@ At free time doing pet projects, see my repo
 - Have passed Andrew NG's Deep Learning Coursera Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
 - Have passed Victor Kantor's [Data Mining in Action course](https://vk.com/data_mining_in_action) fall'17 @ RUDN university, Moscow
 - Have approved publication @ [ICSA conference](http://2018.icsa-conf.ru/)
-- Have [participated](https://yadi.sk/i/CRqTjhNs3URAdq) in [ISYT](http://isyt2017.spiiras.nw.ru/) IV-th International Summer School-Seminar on Artificial Intelligence '17
+- Have [attended](https://yadi.sk/i/CRqTjhNs3URAdq) [ISYT](http://isyt2017.spiiras.nw.ru/) IV-th International Summer School-Seminar on Artificial Intelligence '17
+- Have [attended](https://yadi.sk/i/kzR6EO893URs3D) Microsoft DevCon Conference (Neural networks track)
 
 ### Special Skills
 - IELTS band 7.0 [Certificate](https://yadi.sk/i/qfsGN3GR3URAdd)
