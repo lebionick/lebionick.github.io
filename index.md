@@ -1,6 +1,6 @@
 ## Maslovich Nikolay Romanovich
 
-<img src="https://sun9-7.userapi.com/c831309/v831309035/60348/f_yWNVG_1FE.jpg" width="480">
+<img src="avatar.png" width="320">
 
 ### Bio
 Student, 4th year @ NUST MISiS, Moscow  
