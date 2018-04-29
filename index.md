@@ -38,5 +38,5 @@ At free time doing pet projects, see my repo
 
 ### Contact me
 - [Telegram](https://t.me/maslovich)
-- [VK](www.vk.com/realign)
+- [VK](https://vk.com/realign)
 - [Email](mailto:m141836@edu.misis.ru)
