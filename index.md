@@ -15,14 +15,12 @@ At free time doing pet projects, see my repo
 ### ML achievements
 - Have passed Andrew NG's Deep Learning Coursera Specialization: [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
 - Have passed Victor Kantor's [Data Mining in Action course](https://vk.com/data_mining_in_action) fall'17 @ RUDN university, Moscow
-- Have approved publication @ [ICSA conference](http://2018.icsa-conf.ru/)
-- Have [attended](https://yadi.sk/i/CRqTjhNs3URAdq) [ISYT](http://isyt2017.spiiras.nw.ru/) IV-th International Summer School-Seminar on Artificial Intelligence '17
 - Have [attended](https://yadi.sk/i/kzR6EO893URs3D) Microsoft DevCon Conference (Neural networks track)
 
 ### Science achievements
-- [The publication](https://yadi.sk/i/Ro-I3MYG3XkgEa)<sup>1</sup> @ [ICSA conference](http://2018.icsa-conf.ru/) and the [certificate for the best report](https://yadi.sk/i/fYwFokJC3Xkcz8) in the section
-- [2nd place](https://yadi.sk/i/4F4kw6Ht3XkczN) in the [NUST MISiS's competition of scientific videos](https://www.youtube.com/watch?v=HhI_K5cVi2o)
+- [The publication](https://yadi.sk/i/Ro-I3MYG3XkgEa)<sup>1</sup> @ [ICSA conference '18](http://2018.icsa-conf.ru/) and the [certificate for the best report](https://yadi.sk/i/fYwFokJC3Xkcz8) in the section
 - The publication @ [NUST MISiS's collection of theses](https://yadi.sk/i/sgdDJNyj3XkdXC)
+- [The 2nd place](https://yadi.sk/i/4F4kw6Ht3XkczN) in the [NUST MISiS's competition of scientific videos](https://www.youtube.com/watch?v=HhI_K5cVi2o)
 - Have [attended](https://yadi.sk/i/CRqTjhNs3URAdq) [ISYT](http://isyt2017.spiiras.nw.ru/) IV-th International Summer School-Seminar on Artificial Intelligence '17
 
 ### Special Skills
