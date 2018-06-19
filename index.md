@@ -3,7 +3,7 @@
 <img src="avatar.png" width="320">
 
 ### Bio
-Bachelor @ NUST MISiS, Moscow  
+Bachelor @ NUST MISiS, Moscow 18'  
 Applied Math
 
 Have ended phys-math faculty Lyceum #1525 Vorobievy Gory, '14
