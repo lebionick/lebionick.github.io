@@ -8,9 +8,8 @@ Applied Math
 
 Have ended phys-math faculty Lyceum #1525 Vorobievy Gory, '14
 
-### Activity
-Non-working, looking for vacancies in the sphere of Deep/Machine Learning  
-At free time doing pet projects, see my repo
+### Work experience
+10.18 - now; Developer on Computer vision and Machine learning, Metacommerce
 
 ### ML achievements
 - Have passed Andrew NG's Deep Learning Coursera Specialization: [Certificate](https://www.coursera.org/account/accomplishments/specialization/M3MJ77GFCWL8)
